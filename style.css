@@ -1,0 +1,101 @@
+
+*{
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: small;
+
+}
+
+#signin{
+
+    border: 1px solid rgb(220, 220, 220);
+    position: auto;
+    top: auto;
+    left:auto;
+    right: auto;
+    bottom: 40%;
+    max-height: fit-content;
+    max-width: fit-content;
+    text-align: justify;
+    
+   
+}
+
+#Condition{
+    text-align: right;
+}
+
+#cat{
+
+    background-color: rgb(240, 193, 64);
+    text-align: center;
+    color: rgb(57, 57, 57);
+    width: 325px ;
+    border-color: white;
+    
+}
+
+#map{
+   text-align: center;
+   color: rgb(0, 0, 0);
+   width: 325px;
+   margin: auto;
+   
+   
+   
+}
+
+#new{
+    background-color: rgb(240, 240, 240);
+    text-align: center;
+    color: black;
+    width: 325px ;
+    border-color: lightgray;
+}
+
+
+#password{
+
+    width: 325px ;
+}
+
+#email{
+   
+    width: 325px ;
+}
+
+#line{
+    text-align: center;
+    justify-content: center;
+    margin-top: 1%;
+    margin-bottom:1%;
+   
+}
+
+#footer {
+    position: fixed;
+    bottom: 5%;
+    width: 100%;
+    text-align: center;
+  
+    
+ }
+
+ .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    width: fit-content
+  }
+
+
+
+  #light{
+    color: rgb(106, 106, 106);
+  }
+
+  #pass{
+
+    color: rgb(106,106,106);
+  }
